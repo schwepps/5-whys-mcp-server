@@ -28,7 +28,8 @@
   "homepage": "https://github.com/francoisschuers/5-whys-mcp-server#readme",
   "license": "MIT",
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^0.6.0"
+    "@modelcontextprotocol/sdk": "^0.6.0",
+    "five-whys-mcp-server": "^1.0.0"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",

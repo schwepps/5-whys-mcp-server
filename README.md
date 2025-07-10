@@ -41,7 +41,8 @@ npm install five-whys-mcp-server
 Use the Claude CLI command to add the server automatically:
 
 ```bash
-claude mcp add five-whys npx five-whys-mcp-server
+claude mcp add five-whys npx five-whys-mcp-server # For local installation
+claude mcp add -s user five-whys npx five-whys-mcp-server # user scope
 ```
 
 This command will:
