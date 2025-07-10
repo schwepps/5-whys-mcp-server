@@ -1,4 +1,4 @@
-import { FiveWhysAnalysis, WhyQuestion, AnalysisState, AnalysisResult } from './types.js';
+import { FiveWhysAnalysis, AnalysisState, AnalysisResult } from './types.js';
 
 export class FiveWhysAnalyzer {
   private state: AnalysisState = {
