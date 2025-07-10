@@ -3,6 +3,9 @@
   "version": "1.0.1",
   "description": "MCP server implementing the 5 whys methodology for root cause analysis",
   "main": "dist/index.js",
+  "bin": {
+    "five-whys-mcp-server": "dist/index.js"
+  },
   "type": "module",
   "scripts": {
     "build": "tsc",
