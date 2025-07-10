@@ -1,6 +1,6 @@
 {
   "name": "five-whys-mcp-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server implementing the 5 whys methodology for root cause analysis",
   "main": "dist/index.js",
   "type": "module",
