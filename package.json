@@ -17,7 +17,15 @@
     "root-cause-analysis",
     "problem-solving"
   ],
-  "author": "",
+  "author": "francoisschuers",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francoisschuers/5-whys-mcp-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/francoisschuers/5-whys-mcp-server/issues"
+  },
+  "homepage": "https://github.com/francoisschuers/5-whys-mcp-server#readme",
   "license": "MIT",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^0.6.0"
