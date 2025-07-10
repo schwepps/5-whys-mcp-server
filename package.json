@@ -1,5 +1,5 @@
 {
-  "name": "@schwepps/five-whys-mcp-server",
+  "name": "five-whys-mcp-server",
   "version": "1.0.0",
   "description": "MCP server implementing the 5 whys methodology for root cause analysis",
   "main": "dist/index.js",

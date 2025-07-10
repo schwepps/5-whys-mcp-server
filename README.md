@@ -31,7 +31,7 @@ The 5 Whys is a problem-solving technique that involves asking "why" repeatedly 
 ### Install the Package
 
 ```bash
-npm install @schwepps/five-whys-mcp-server
+npm install five-whys-mcp-server
 ```
 
 ### Add to Claude Code
@@ -41,7 +41,7 @@ npm install @schwepps/five-whys-mcp-server
 Use the Claude CLI command to add the server automatically:
 
 ```bash
-claude mcp add five-whys npx @schwepps/five-whys-mcp-server
+claude mcp add five-whys npx five-whys-mcp-server
 ```
 
 This command will:
@@ -62,7 +62,7 @@ This command will:
   "mcpServers": {
     "five-whys": {
       "command": "npx",
-      "args": ["@schwepps/five-whys-mcp-server"]
+      "args": ["five-whys-mcp-server"]
     }
   }
 }
